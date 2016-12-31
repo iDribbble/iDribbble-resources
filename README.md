@@ -18,7 +18,7 @@ demos I want to create.
 - [ ] https://dribbble.com/shots/3090440-Sign-in-Screen-Transition
 - [ ] https://dribbble.com/shots/2899783-HUD-Title-intro
 - [ ] https://dribbble.com/shots/3050290-Edufunding-Title-Card
-- [ ] https://dribbble.com/shots/3051672-Material-io
+- [x] https://dribbble.com/shots/3051672-Material-io
 - [ ] https://dribbble.com/shots/3054836-2016-Reel-Leviticus
 - [ ] https://dribbble.com/shots/3177029-Happy-New-2017
 - [ ] https://dribbble.com/shots/3175696-AREKKZ-GAMING
